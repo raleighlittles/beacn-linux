@@ -1,3 +1,5 @@
+<h2> Please see https://github.com/beacn-on-linux for a working version. </h2>
+
 ![beacn-mix-device](./docs/beacn-mix-dual.png)
 
 # About
